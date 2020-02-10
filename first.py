@@ -1,4 +1,3 @@
-# compare algorithms
 from pandas import read_csv
 from matplotlib import pyplot
 from sklearn.model_selection import train_test_split
